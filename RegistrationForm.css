@@ -1,0 +1,56 @@
+.gwt-underLinedCaptionLabel {
+ color: navy;
+ font-family: SolaimanLipi;
+ font-size: 14px;
+ font-weight: bold;
+ text-decoration: underline;
+}
+
+.gwtMainAbsolutePanel {
+background-color: lavender;
+}
+.gwt-headLabel {
+	color: darkblue;
+	font-family: SolaimanLipi;
+	font-size: 28px;
+	
+}
+.gwt-VarificationLabel {
+	font-family: SolaimanLipi;
+	font-size: 14px;
+	font-weight: bold;
+}
+.ext-lebel-title {
+	color: mediumpurple;
+	font-family: SolaimanLipi;
+	font-size: 16px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bolder;
+}
+.ext-lebel-bold-blue {
+	color: blue;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+}
+.ext-font-lebel {
+	font-family: SolaimanLipi;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+}
+.ext-fieldset-lebel {
+	font-family: SolaimanLipi;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bolder;
+}
+.ext-mendatory-fields {
+	font-family: SolaimanLipi;
+	font-size: 12px;
+	color: red;
+	font-style: normal;
+	font-weight: bolder;
+}
